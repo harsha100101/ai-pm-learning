@@ -12,3 +12,8 @@ Documenting my transition into AI PM through structured learning.
 
 ## Goal
 Transition into an AI PM role within 9 months.
+
+## Study Schedule
+- 4-6 hours per week
+- Topics studied with Claude AI as instructor
+- Progress tracked topic by topic
