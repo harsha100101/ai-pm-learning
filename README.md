@@ -17,3 +17,10 @@ Transition into an AI PM role within 9 months.
 - 4-6 hours per week
 - Topics studied with Claude AI as instructor
 - Progress tracked topic by topic
+
+## Phase 1 Topics
+- Topic 1: Terminal & Command Line ✅
+- Topic 2: Git & GitHub (in progress)
+- Topic 3: Python — Reading Code
+- Topic 4: APIs
+- Topic 5: How Software Gets Built
